@@ -78185,7 +78185,7 @@ s=5
 return A.z(p.mu(),$async$pS)
 case 5:s=b?2:4
 break
-case 2:q.x=A.aBo(A.and(A.fs("ws://127.0.0.1:8000/ws/audio",0,null),null))
+case 2:q.x=A.aBo(A.and(A.fs("wss://on-board-demo.azurewebsites.net/ws/audio",0,null),null))
 o=p.b
 if(o==null)o=p.b=new A.eZ(null,null,t.nk)
 new A.cK(o,A.l(o).i("cK<1>")).fi(new A.agv(q))
